@@ -14,3 +14,16 @@ The goal is to turn long-term Baltic Sea monitoring data into a small number of 
 1. Nitrogen and phosphorus inputs to the Baltic Sea over time
 2. Hypoxic and anoxic bottom area over time
 3. Nutrient inputs vs. hypoxia, to test for a relationship or a time delay
+
+
+## Results
+
+### 1. Nutrient inputs to the Baltic Proper
+
+![Nutrient inputs to the Baltic Proper, 1995-2023](figures/nutrient_trend.png)
+
+*Normalized total (waterborne + airborne) inputs of nitrogen and phosphorus to the Baltic Proper. Dashed lines show HELCOM's maximum allowable inputs. Data: HELCOM (2026).*
+
+- **Phosphorus** inputs fell by about 47%, from roughly 19,500 tonnes in 1995 to 10,300 tonnes in 2023.
+- **Nitrogen** inputs fell by about 22% between 1995 and 2009, but have stayed close to 400,000 tonnes per year since then.
+- Both nutrients are still above HELCOM's targets for the Baltic Proper.
