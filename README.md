@@ -1,4 +1,4 @@
-# Baltic-Sea-Hypoxia
+# Baltic Sea Hypoxia Analysis
 
 ## Overview
 
