@@ -1,5 +1,4 @@
 # Baltic-Sea-Hypoxia
-*Work in progress*
 
 ## Overview
 
@@ -9,7 +8,12 @@ By comparing long-term nutrient input data with changes in the area affected by 
 
 The goal is to turn long-term Baltic Sea monitoring data into a small number of clear, evidence-based findings using data analysis and visualizations in MATLAB.
 
-## Planned analysis
+## Key findings
+
+- Phosphorus inputs to the Baltic Proper fell by almost half between 1995 and 2023, while nitrogen inputs have stayed roughly flat since about 2009.
+- Over the same period, the share of the seafloor with no oxygen (anoxia) grew from about 3% to about 18%, with a sharp increase after 1999.
+- No recovery is visible even with a 10-year delay, which is consistent with phosphorus release from anoxic sediments and decades of past pollution.
+## Analysis
 
 1. Nitrogen and phosphorus inputs to the Baltic Sea over time
 2. Hypoxic and anoxic bottom area over time
@@ -80,3 +84,8 @@ Phosphorus inputs to the Baltic Proper have been cut by almost half since 1995, 
    - `plot_hypoxia.m` → Graph 2
    - `plot_nutrients_vs_hypoxia.m` → Graph 3
 3. Each script reads its data from `data/processed/` and saves its figure to `figures/`.
+
+   ## Author
+
+Gabby Gasilionyte: chemical engineering student at Case Western Reserve University.
+Background for this project: MIT OpenCourseWare, [12.097 Chemical Investigations of Boston Harbor](https://ocw.mit.edu/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006) (self-study).
